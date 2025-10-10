@@ -2,6 +2,6 @@ build/
 *.swp
 .idea/
 .MACOSX
-.gitignore
+*.gitignore
 
 
