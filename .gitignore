@@ -1,6 +1,7 @@
-./build
+build/
 *.swp
-./.idea
+.idea/
 .MACOSX
+.gitignore
 
 
